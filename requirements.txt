@@ -5,4 +5,4 @@ chromadb
 langchain-community
 langchain-openai
 langchain-core
-beautifulsoup4
+bs4
